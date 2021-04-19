@@ -1,0 +1,5 @@
+To execute this program, run the following command 
+
+Build and Execute: g++ "File_Name".cpp -lglut -lGL -lGLEW -lGLU -o 3d.out
+
+To get Final Output: ./3d.out
